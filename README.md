@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-This is the first side project of my software development. 
+This is the first side project of software development. 
 
 It involves writing python code to store a list of movies which will be used to generate a static web page allowing visitors to browse the movies and watch the trailers.
 
